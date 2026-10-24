@@ -39,24 +39,24 @@ The motor is switched off by using DPST switch 1 after bringing all the rheostat
 
 Tabulation for Open Circuit Test
 
-<img width="677" height="312" alt="image" src="https://github.com/user-attachments/assets/6e5114dd-5050-4e46-b429-d38cab21e4df" />
+<img width="677" height="412" alt="image" src="https://github.com/user-attachments/assets/6e5114dd-5050-4e46-b429-d38cab21e4df" />
 
 Model graph:
-<img width="1600" height="493" alt="image" src="https://github.com/user-attachments/assets/c431601d-276e-453f-9348-edf306e4138a" />
+<img width="677" height="493" alt="image" src="https://github.com/user-attachments/assets/c431601d-276e-453f-9348-edf306e4138a" />
 
 Calculation
 
-<img width="238" height="160" alt="image" src="https://github.com/user-attachments/assets/183bb40b-788d-40d8-8b2c-5adbb64c7d2d" />
+<img width="638" height="460" alt="image" src="https://github.com/user-attachments/assets/183bb40b-788d-40d8-8b2c-5adbb64c7d2d" />
 
 Magnetisation load Characteristics
 
 Tabulation for load Test
 
-<img width="738" height="433" alt="image" src="https://github.com/user-attachments/assets/dc4961dc-d5dd-4639-812f-3d61ad5ea4fa" />
+<img width="638" height="433" alt="image" src="https://github.com/user-attachments/assets/dc4961dc-d5dd-4639-812f-3d61ad5ea4fa" />
 
 Model graph
 
-<img width="515" height="218" alt="image" src="https://github.com/user-attachments/assets/2b3f2b14-31c8-4f68-ad28-987cf405812c" />
+<img width="615" height="418" alt="image" src="https://github.com/user-attachments/assets/2b3f2b14-31c8-4f68-ad28-987cf405812c" />
 
 Calculation
 
